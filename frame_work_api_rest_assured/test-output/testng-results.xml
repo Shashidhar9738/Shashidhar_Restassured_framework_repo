@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-02T12:54:31 IST" name="Default suite" finished-at="2023-07-02T12:54:33 IST" duration-ms="2395">
+    <groups>
+    </groups>
+    <test started-at="2023-07-02T12:54:31 IST" name="Default test" finished-at="2023-07-02T12:54:33 IST" duration-ms="2395">
+      <class name="github_test_cases.github_testcases">
+        <test-method signature="CreateRepoDynamic()[pri:0, instance:github_test_cases.github_testcases@54a7079e]" started-at="2023-07-02T12:54:31 IST" name="CreateRepoDynamic" finished-at="2023-07-02T12:54:33 IST" duration-ms="2366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateRepoDynamic -->
+      </class> <!-- github_test_cases.github_testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
